@@ -35,16 +35,14 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=psathwik2200031830&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### 🔹 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=psathwik2200031830&show_icons=true&locale=en&layout=compact&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=psathwik2200031830&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
+### 🔹 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psathwik2200031830&show_icons=true&locale=en&theme=radical)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psathwik2200031830&theme=radical" alt="GitHub Streak" />
-</p>
+### 🔹 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=psathwik2200031830&theme=radical)
+
